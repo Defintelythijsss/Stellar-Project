@@ -1,39 +1,33 @@
-# 🚀 GRAND THEFT AUTO VI – RUNNING ON PC!
+<img width="400" height="400" alt="logo" src="https://github.com/user-attachments/assets/6ed3dfdf-c931-432b-a9d0-6cb5a7160f6b" />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Project Stellar
 
-## 🎮 WE DID IT!
+A GTA VI port using the Xbox Build Runtime.
 
-We successfully managed to get GTA VI running on PC!
+Welcome to Project Stellar. This project is currently in beta, and we're excited to share our progress with the community.
 
-The game launches and runs without any major problems. There are still some occasional freezes and performance issues, but seeing GTA VI actually running on PC is already a huge milestone!
+Performance
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Current runtime testing shows approximately 30–40 FPS.
 
-## 📊 CURRENT TEST RESULTS
-✅ Successfully launched
-✅ Running on PC
-✅ Gameplay functional
-⚠️ Minor performance issues
-⚠️ Occasional freezing
+Performance is not perfect yet, but this is an early beta release. Further testing and optimisation are planned.
 
-CURRENT STATUS: WORKING!
+Beta Information
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Please remember that this is a beta release. You may experience:
 
-## ⚙️ WHAT'S NEXT?
-🔧 Improve overall FPS
-🔧 Reduce stuttering
-🔧 Fix occasional freezes
-🔧 Optimize performance
-🔧 Achieve smoother gameplay
+Performance fluctuations
+Occasional bugs or crashes
+Features still being tested
+General instability
+Development
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+We will continue working on improving performance, stability and the overall experience in future updates.
 
-## 🔥 A HUGE STEP FORWARD!
+Thank You
 
-This is only the beginning. We're continuing to test, improve and optimize the experience.
+Thank you for checking out Project Stellar and supporting the project.
 
-# GTA VI is running on PC. Now it's time to make it even smoother! 💻🚀
+Please be patient while development continues. This is only the beta release, and there is more to come.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Enjoy!
