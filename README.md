@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c2e0013-67ad-4de9-bceb-2c8e0a77d7a1" />
+<img width="1024" height="1024" alt="image" src="https://kommodo.ai/i/2X7DcZcGVkdglUidTO2f" />
 
 ## Hello we are currently working on Stellar Project we will give yall more updates and leaks very soon!
  We are still in early development so do not ask when release
