@@ -1,7 +1,50 @@
-<img width="1024" height="1024" alt="image" src="https://kommodo.ai/i/2X7DcZcGVkdglUidTO2f" />
+# 🚀 GRAND THEFT AUTO VI – RUNNING ON PC!
 
-## Hello we are currently working on Stellar Project we will give yall more updates and leaks very soon!
- We are still in early development so do not ask when release
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Important:
-This repository does not contain the game, keys or an executable, and it does not explain how to get them. You need your own copy, with its files already readable on disk. Nothing here decrypts or works around any protection. Everything the build creates (the generated shaders, extracted assets, the runtime folder and your saves) comes from your game and stays on your PC. Never share those files.
+## 🎮 WE DID IT!
+
+We successfully managed to get GTA VI running on PC!
+
+The game launches and runs without any major problems. There are still some occasional freezes and performance issues, but seeing GTA VI actually running on PC is already a huge milestone!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 CURRENT TEST RESULTS
+text
+╔══════════════════════════════════╗
+║          GTA VI STATUS           ║
+╠══════════════════════════════════╣
+║                                  ║
+║  [✓] Successfully launched       ║
+║  [✓] Running on PC               ║
+║  [✓] Gameplay functional         ║
+║  [!] Minor performance issues    ║
+║  [!] Occasional freezing         ║
+║                                  ║
+╠══════════════════════════════════╣
+║       STATUS: WORKING            ║
+╚══════════════════════════════════╝
+
+## ⚙️ WHAT WE'RE WORKING ON
+## text
+╔══════════════════════════════════╗
+║         NEXT OBJECTIVES          ║
+╠══════════════════════════════════╣
+║  [ ] Improve overall FPS         ║
+║  [ ] Reduce stuttering           ║
+║  [ ] Fix occasional freezes      ║
+║  [ ] Optimize performance        ║
+║  [ ] Achieve smoother gameplay   ║
+╚══════════════════════════════════╝
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔥 A HUGE STEP FORWARD!
+
+This is only the beginning. We're continuing to test, improve and optimize the experience.
+
+# GTA VI on PC is running. Now it's time to make it smoother. 💻
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
