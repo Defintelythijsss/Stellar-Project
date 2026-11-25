@@ -11,33 +11,22 @@ The game launches and runs without any major problems. There are still some occa
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📊 CURRENT TEST RESULTS
-text
-╔══════════════════════════════════╗
-║          GTA VI STATUS           ║
-╠══════════════════════════════════╣
-║                                  ║
-║  [✓] Successfully launched       ║
-║  [✓] Running on PC               ║
-║  [✓] Gameplay functional         ║
-║  [!] Minor performance issues    ║
-║  [!] Occasional freezing         ║
-║                                  ║
-╠══════════════════════════════════╣
-║       STATUS: WORKING            ║
-╚══════════════════════════════════╝
+✅ Successfully launched
+✅ Running on PC
+✅ Gameplay functional
+⚠️ Minor performance issues
+⚠️ Occasional freezing
 
-## ⚙️ WHAT WE'RE WORKING ON
-## text
-╔══════════════════════════════════╗
-║         NEXT OBJECTIVES          ║
-╠══════════════════════════════════╣
-║  [ ] Improve overall FPS         ║
-║  [ ] Reduce stuttering           ║
-║  [ ] Fix occasional freezes      ║
-║  [ ] Optimize performance        ║
-║  [ ] Achieve smoother gameplay   ║
-╚══════════════════════════════════╝
+CURRENT STATUS: WORKING!
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚙️ WHAT'S NEXT?
+🔧 Improve overall FPS
+🔧 Reduce stuttering
+🔧 Fix occasional freezes
+🔧 Optimize performance
+🔧 Achieve smoother gameplay
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -45,6 +34,6 @@ text
 
 This is only the beginning. We're continuing to test, improve and optimize the experience.
 
-# GTA VI on PC is running. Now it's time to make it smoother. 💻
+# GTA VI is running on PC. Now it's time to make it even smoother! 💻🚀
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
